@@ -1,6 +1,6 @@
 ﻿# Color Harmonica OWO
 
-A simple tool for calculating "color harmonic"
+A simple tool for calculating "color harmonic" for [Krita](https://krita.org/en/)
 
 Here's the video demonstration of it :3 
 
