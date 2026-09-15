@@ -13,7 +13,7 @@ You can pick the color you want on the "Color Selector" section.
 
 Next on the calculation part here's the list of the harmony available.
 
-<img width="600vw" alt="001" src="https://github.com/user-attachments/assets/415f3d01-3934-47af-a526-8c2923204c46" />
+<img width="500vw" alt="001" src="https://github.com/user-attachments/assets/415f3d01-3934-47af-a526-8c2923204c46" />
 
 ## Installation 
 
