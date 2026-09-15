@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=colorharmonica
+X-Python-2-Compatible=false
+X-Krita-Manual=manual.html
+Name=Color Harmonica
+Comment=A simple Color Harmonic Calculator
